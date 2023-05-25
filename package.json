@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^10.0.0",
-    "https-proxy-agent": "^5.0.0",
+    "https-proxy-agent": "^6.0.0",
     "read": "^2.0.0",
     "ws": "^8.0.0"
   },
